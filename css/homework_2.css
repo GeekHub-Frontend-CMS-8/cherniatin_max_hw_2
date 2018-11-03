@@ -23,6 +23,12 @@ h1 {
     text-align: center;
 }
 
+.image1{
+    max-width: 250px;
+    float:left;
+    margin:0 10px 0 0 ;
+}
+
 .image2{
     display: block;
     max-width: 330px;
